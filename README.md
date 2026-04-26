@@ -75,9 +75,9 @@ For an annotated walkthrough — what each function is, what threat model it ope
 Audit findings, cryptographic concerns, or implementation bugs:
 
 - Open an issue on this repository, or
-- Email security at the address listed on the [website](https://nephele.arisfusion.com)
+- Email the security address listed on the [website](https://nephele.arisfusion.com)
 
-Functional pull requests are not accepted here — this is a downstream mirror of the client tree. File them upstream against the main product.
+Pull requests against this mirror won't reach the desktop client — the client tree is closed-source. Issues are the right channel; if a fix is straightforward I'll port it upstream and credit you in the next mirror sync.
 
 ## License
 
