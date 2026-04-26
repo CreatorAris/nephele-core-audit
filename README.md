@@ -77,7 +77,7 @@ Audit findings, cryptographic concerns, or implementation bugs:
 - Open an issue on this repository, or
 - Email the security address listed on the [website](https://nephele.arisfusion.com)
 
-Pull requests against this mirror won't reach the desktop client — the client tree is closed-source. Issues are the right channel; if a fix is straightforward I'll port it upstream and credit you in the next mirror sync.
+**This repository does not accept pull requests.** It is a one-way mirror — the desktop client tree is closed-source, and any change merged here would be overwritten on the next sync. Please describe the proposed fix in an issue instead. If I act on it I'll do so in the closed-source client and the change will appear in the next tagged mirror.
 
 ## License
 
