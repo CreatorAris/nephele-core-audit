@@ -87,3 +87,4 @@ MIT, see [LICENSE](LICENSE). Free to copy, modify, redistribute. Attribution pre
 
 - [nephele-verify](https://github.com/CreatorAris/nephele-verify) — independent verification page for `.nep` evidence files
 - [nephele-wisp](https://github.com/CreatorAris/nephele-wisp) — browser-side companion (Chrome / Edge extension)
+- [nephele-remote](https://github.com/CreatorAris/nephele-remote) — mobile companion (Expo / React Native app)
